@@ -1,2 +1,2 @@
 # aplikasi-enkripsi
-Aplikasi ini merupakan sebuah algoritma caesar cipher dengan menggunakan bahasa pemrograman python.
+Repo untuk aplikasi enkripsi dan dekripsi menggunakan algortma caesar cipher dengan bahasa pemrograman python.

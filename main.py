@@ -74,5 +74,5 @@ def halaman_utama():
 
     screen.mainloop()
 
-
-halaman_utama()
+if __name__ == "__main__":
+    halaman_utama()
